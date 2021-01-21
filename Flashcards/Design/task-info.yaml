@@ -182,5 +182,11 @@ files:
     );
   learner_created: false
 feedback_link: https://hyperskill.org/projects/115/stages/626/implement#comment
-status: Unchecked
+status: Failed
+feedback:
+  message: |-
+    Wrong answer in test #1
+
+    The text inside the h1 element should have a font different from 'serif' and 'Times New Roman'.
+  time: Fri, 15 Jan 2021 14:23:43 UTC
 record: 2
